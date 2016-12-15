@@ -1,0 +1,28 @@
+@media screen and (max-width: 479px){
+  body{
+    min-width: 320px;
+  }
+
+  .menu{
+    a{
+      padding: 0;
+      height: 100px;
+      text-align: center;
+      line-height: 100px;
+    }
+
+  }
+  .btn_contact_us{
+    width: 300px;
+    font-size: 24px;
+
+  }
+  .serv_border{
+    width: 14%;
+  }
+
+  .copy{
+    width: 90%;
+  }
+}
+

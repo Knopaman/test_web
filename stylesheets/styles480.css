@@ -1,0 +1,17 @@
+@media screen and (max-width: 959px) {
+  /* line 4, ../sass/styles480.scss */
+  body {
+    min-width: 480px;
+  }
+
+  /* line 8, ../sass/styles480.scss */
+  .w, .w2 {
+    width: 90%;
+    margin: 0 5% 0.5%;
+  }
+
+  /* line 13, ../sass/styles480.scss */
+  .article_content1, .article_content2 {
+    width: 90%;
+  }
+}

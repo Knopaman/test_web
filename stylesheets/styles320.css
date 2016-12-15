@@ -1,0 +1,30 @@
+@media screen and (max-width: 479px) {
+  /* line 2, ../sass/styles320.scss */
+  body {
+    min-width: 320px;
+  }
+
+  /* line 7, ../sass/styles320.scss */
+  .menu a {
+    padding: 0;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+  }
+
+  /* line 15, ../sass/styles320.scss */
+  .btn_contact_us {
+    width: 300px;
+    font-size: 24px;
+  }
+
+  /* line 20, ../sass/styles320.scss */
+  .serv_border {
+    width: 14%;
+  }
+
+  /* line 24, ../sass/styles320.scss */
+  .copy {
+    width: 90%;
+  }
+}
