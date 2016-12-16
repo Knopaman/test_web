@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="779c5dd0-123d-4f04-b3c4-6cf6ad116d09" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/d5926d5fefb4fd6510a8e08d1a06883f16b2ef45/styles320.scssc" afterPath="$PROJECT_DIR$/.sass-cache/d5926d5fefb4fd6510a8e08d1a06883f16b2ef45/styles320.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/styles320.scss" afterPath="$PROJECT_DIR$/sass/styles320.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/styles960.scss" afterPath="$PROJECT_DIR$/sass/styles960.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/styles.main.css" afterPath="$PROJECT_DIR$/stylesheets/styles.main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/styles320.css" afterPath="$PROJECT_DIR$/stylesheets/styles320.css" />
     </list>
@@ -30,21 +29,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-10.461538">
-                  <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+                <state vertical-scroll-proportion="0.40919283">
+                  <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="styles960.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="styles960.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/sass/styles960.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.42822966">
-                  <caret line="203" column="28" selection-start-line="203" selection-start-column="28" selection-end-line="203" selection-end-column="28" />
+                <state vertical-scroll-proportion="-5.609756">
+                  <caret line="209" column="3" selection-start-line="209" selection-start-column="3" selection-end-line="209" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -57,8 +56,8 @@
           <file leaf-file-name="styles320.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/sass/styles320.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6092486">
-                  <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.3317919">
+                  <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -74,8 +73,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sass/styles320.scss" />
         <option value="$PROJECT_DIR$/sass/styles960.scss" />
+        <option value="$PROJECT_DIR$/sass/styles320.scss" />
       </list>
     </option>
   </component>
@@ -232,26 +231,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sass/styles960.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.609756">
+          <caret line="209" column="3" selection-start-line="209" selection-start-column="3" selection-end-line="209" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.40919283">
+          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/styles320.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6092486">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/styles960.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42822966">
-          <caret line="203" column="28" selection-start-line="203" selection-start-column="28" selection-end-line="203" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.3317919">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
           <folding />
         </state>
       </provider>

@@ -53,43 +53,50 @@
   /* line 45, ../sass/styles320.scss */
   .product {
     padding-bottom: 30px;
+    padding-top: 104px;
   }
 
-  /* line 49, ../sass/styles320.scss */
+  /* line 50, ../sass/styles320.scss */
   .main_container {
     margin: 90px auto;
   }
 
-  /* line 53, ../sass/styles320.scss */
+  /* line 54, ../sass/styles320.scss */
   .what_we_do .main_container {
     margin: 90px auto;
   }
 
-  /* line 57, ../sass/styles320.scss */
+  /* line 58, ../sass/styles320.scss */
   footer .main_container {
     margin: 90px auto 0;
   }
 
-  /* line 63, ../sass/styles320.scss */
+  /* line 62, ../sass/styles320.scss */
+  .services {
+    padding-bottom: 158px;
+  }
+
+  /* line 68, ../sass/styles320.scss */
   .menu a {
     padding: 0;
     height: 100px;
     text-align: center;
     line-height: 100px;
-  }
-
-  /* line 71, ../sass/styles320.scss */
-  .btn_contact_us {
-    width: 300px;
     font-size: 24px;
   }
 
-  /* line 76, ../sass/styles320.scss */
+  /* line 77, ../sass/styles320.scss */
+  .btn_contact_us {
+    font-size: 15px;
+    width: 90%;
+  }
+
+  /* line 82, ../sass/styles320.scss */
   .serv_border {
     width: 14%;
   }
 
-  /* line 80, ../sass/styles320.scss */
+  /* line 86, ../sass/styles320.scss */
   .copy {
     width: 90%;
   }
