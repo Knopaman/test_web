@@ -2,6 +2,62 @@
   body{
     min-width: 320px;
   }
+  header{
+    margin-bottom: 0;
+  }
+
+  .header_container{
+    padding: 120px 0 30px 0;
+  }
+
+  .header_content{
+    margin-bottom: 100px;
+  }
+
+  .header_title {
+    font-size: 30px;
+    letter-spacing: 5px;
+    margin-top: 74px;
+    line-height: 40px;
+  }
+
+  .header_content {
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 103px;
+  }
+
+  .content_title {
+    font-size: 22px;
+
+  }
+
+  .what_we_do_content {
+    padding-top: 92px;
+  }
+
+  .design, .development ,
+  .product {
+    margin-top: 50px;
+  }
+
+
+  .product{
+    padding-bottom: 30px;
+  }
+
+  .main_container{
+  margin: 90px auto;
+  }
+
+  .what_we_do .main_container {
+    margin: 90px auto;
+  }
+
+  footer .main_container {
+    margin: 90px auto 0;
+  }
+
 
   .menu{
     a{

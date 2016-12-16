@@ -254,75 +254,76 @@ article {
   padding-top: 168px;
   padding-left: 48px;
   transition: color 0.5s;
+  border: 2px solid white;
   -webkit-transition: color 0.5s;
 }
-/* line 206, ../sass/styles960.scss */
+/* line 207, ../sass/styles960.scss */
 .menu a:hover {
   color: black;
   border: 2px solid black;
 }
 
-/* line 212, ../sass/styles960.scss */
+/* line 213, ../sass/styles960.scss */
 .clear_fix {
   clear: both;
 }
 
-/* line 216, ../sass/styles960.scss */
+/* line 217, ../sass/styles960.scss */
 .w {
   width: 28%;
 }
 
-/* line 220, ../sass/styles960.scss */
+/* line 221, ../sass/styles960.scss */
 .w2 {
   width: 43%;
 }
 
-/* line 224, ../sass/styles960.scss */
+/* line 225, ../sass/styles960.scss */
 .topworkz {
   background-image: url("../images/worktop_img.png");
   margin: 0 0.5% 0.5% 0;
 }
 
-/* line 229, ../sass/styles960.scss */
+/* line 230, ../sass/styles960.scss */
 .joint {
   background-image: url("../images/joint_img.png");
   margin: 0 0.5% 0.5% 0;
 }
 
-/* line 234, ../sass/styles960.scss */
+/* line 235, ../sass/styles960.scss */
 .market {
   background-image: url("../images/market_img.png");
   margin: 0 0 0.5% 0;
 }
 
-/* line 239, ../sass/styles960.scss */
+/* line 240, ../sass/styles960.scss */
 .worktop {
   background-image: url("../images/worktop_img.png");
   margin: 0 0.5% 0.5% 0;
 }
 
-/* line 244, ../sass/styles960.scss */
+/* line 245, ../sass/styles960.scss */
 .lable {
   background-image: url("../images/lable_img.png");
   margin: 0 0.5% 0 0;
 }
 
-/* line 249, ../sass/styles960.scss */
+/* line 250, ../sass/styles960.scss */
 .kyiv {
   background-image: url("../images/kyiv_img.png");
 }
 
-/* line 257, ../sass/styles960.scss */
+/* line 258, ../sass/styles960.scss */
 footer .article_content1 {
   margin-top: 68px;
   margin-bottom: 43px;
 }
-/* line 262, ../sass/styles960.scss */
+/* line 263, ../sass/styles960.scss */
 footer .main_container {
   margin: 156px auto 0;
 }
 
-/* line 267, ../sass/styles960.scss */
+/* line 268, ../sass/styles960.scss */
 .btn_contact_us {
   display: block;
   width: 395px;
@@ -339,7 +340,7 @@ footer .main_container {
   margin: 0 auto 48px;
 }
 
-/* line 283, ../sass/styles960.scss */
+/* line 284, ../sass/styles960.scss */
 .btn_contact_us:hover {
   background-color: white;
   color: #3c3c3c;
@@ -347,7 +348,7 @@ footer .main_container {
   -webkit-transition: background-color 0.2s;
 }
 
-/* line 291, ../sass/styles960.scss */
+/* line 292, ../sass/styles960.scss */
 .copy {
   display: block;
   margin: 64px auto 56px;
@@ -381,7 +382,73 @@ footer .main_container {
     min-width: 320px;
   }
 
-  /* line 7, ../sass/styles320.scss */
+  /* line 5, ../sass/styles320.scss */
+  header {
+    margin-bottom: 0;
+  }
+
+  /* line 9, ../sass/styles320.scss */
+  .header_container {
+    padding: 120px 0 30px 0;
+  }
+
+  /* line 13, ../sass/styles320.scss */
+  .header_content {
+    margin-bottom: 100px;
+  }
+
+  /* line 17, ../sass/styles320.scss */
+  .header_title {
+    font-size: 30px;
+    letter-spacing: 5px;
+    margin-top: 74px;
+    line-height: 40px;
+  }
+
+  /* line 24, ../sass/styles320.scss */
+  .header_content {
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 103px;
+  }
+
+  /* line 30, ../sass/styles320.scss */
+  .content_title {
+    font-size: 22px;
+  }
+
+  /* line 35, ../sass/styles320.scss */
+  .what_we_do_content {
+    padding-top: 92px;
+  }
+
+  /* line 39, ../sass/styles320.scss */
+  .design, .development,
+  .product {
+    margin-top: 50px;
+  }
+
+  /* line 45, ../sass/styles320.scss */
+  .product {
+    padding-bottom: 30px;
+  }
+
+  /* line 49, ../sass/styles320.scss */
+  .main_container {
+    margin: 90px auto;
+  }
+
+  /* line 53, ../sass/styles320.scss */
+  .what_we_do .main_container {
+    margin: 90px auto;
+  }
+
+  /* line 57, ../sass/styles320.scss */
+  footer .main_container {
+    margin: 90px auto 0;
+  }
+
+  /* line 63, ../sass/styles320.scss */
   .menu a {
     padding: 0;
     height: 100px;
@@ -389,18 +456,18 @@ footer .main_container {
     line-height: 100px;
   }
 
-  /* line 15, ../sass/styles320.scss */
+  /* line 71, ../sass/styles320.scss */
   .btn_contact_us {
     width: 300px;
     font-size: 24px;
   }
 
-  /* line 20, ../sass/styles320.scss */
+  /* line 76, ../sass/styles320.scss */
   .serv_border {
     width: 14%;
   }
 
-  /* line 24, ../sass/styles320.scss */
+  /* line 80, ../sass/styles320.scss */
   .copy {
     width: 90%;
   }
